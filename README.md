@@ -1,2 +1,3 @@
 # Jan's Notes
-- In this repo I will have all my notes !!
+## Summary
+- This repository contains all of the notes taken by Jan for the Lighthouse Labs Web Development Bootcamp.
